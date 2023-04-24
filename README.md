@@ -110,10 +110,34 @@ pixel id: 1198974
 address: 0xffd92144cafd599a5a93e4805ca4d8f0e666d623
 ```
 
-### Winner 2 (pending)
+### Winner 2 (could not go)
 
 ```
 random index: 195
 pixel id: 1130340
 address: 0xccd8f8cc27161f234c62ba12f8df590cc3d370e3
+```
+
+### Winner 3 (pending)
+
+```
+random index: 292
+pixel id: 1208844
+address: 0x408027a9f302feb3de50859352ca3d91f6c22343
+```
+
+### Winner 4 (tbd)
+
+```
+random index: 383
+pixel id: 1264737
+address: 0x83CA54B963cd061f26d0E02d92bf43B61559De6A
+```
+
+### Winner 5 (tbd)
+
+```
+random index: 13
+pixel id: 1007167
+address: 0x99b55057a5eeeebb2f9afb1adadec86aacfee8da
 ```

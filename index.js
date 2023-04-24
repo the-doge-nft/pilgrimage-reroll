@@ -169,7 +169,7 @@ const main = async () => {
   pixelIds = pixelIds.sort();
 
   console.log(`roll length should be from 0 -> ${pixelIds.length - 1}`);
-  const winningIndex = 195;
+  const winningIndex = 13;
   console.log(`winning index is ${winningIndex} from random.org`);
   const winningPixel = pixelIds[winningIndex];
   console.log(`winning pixel ID is ${winningPixel}`);
