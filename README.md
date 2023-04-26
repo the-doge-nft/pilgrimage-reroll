@@ -118,7 +118,7 @@ pixel id: 1130340
 address: 0xccd8f8cc27161f234c62ba12f8df590cc3d370e3
 ```
 
-### Winner 3 (pending)
+### Winner 3 (won & accepted)
 
 ```
 random index: 292
